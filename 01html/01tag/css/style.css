@@ -109,3 +109,26 @@ body{
 .banner .card .card-text h3{
     margin-bottom: 10px;
 }
+
+.yellow-bar{
+    width: 75px;
+    height: 5px;
+    background-color: yellow;
+    margin: 20px 0;
+}
+
+.textWrap{
+    width: 40%;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.align-self-end{
+    align-self: flex-end;
+}
+
+.mb-100{
+    margin-bottom: 100px;
+}
